@@ -1,0 +1,8 @@
+.about {
+  position: relative;
+}
+.socials {
+  position: absolute;
+  bottom: 500px;
+  left: 880px;
+}
